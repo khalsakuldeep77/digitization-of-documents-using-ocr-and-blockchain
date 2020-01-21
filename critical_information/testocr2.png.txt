@@ -1,0 +1,936 @@
+Representative name for the entity: In Your Face Advertisinghas
+Entity type: WORK_OF_ART
+Representative name for the entity: State
+Entity type: LOCATION
+Representative name for the entity: State
+Entity type: LOCATION
+Representative name for the entity: openings
+Entity type: EVENT
+Representative name for the entity: Media Relations Office
+Entity type: ORGANIZATION
+Representative name for the entity: Job TitleDepartment NameCompany
+Entity type: ORGANIZATION
+Representative name for the entity: 2018Contact Name
+Entity type: OTHER
+Representative name for the entity: NameAddressCity
+Entity type: OTHER
+Representative name for the entity: Zip CodeDear
+Entity type: LOCATION
+Representative name for the entity: Zip CodePhone
+Entity type: OTHER
+Representative name for the entity: NameCompany AddressCity
+Entity type: OTHER
+Representative name for the entity: University of North Texas Career Center
+Entity type: ORGANIZATION
+Representative name for the entity: campaigns
+Entity type: EVENT
+Representative name for the entity: andpromotions
+Entity type: OTHER
+Representative name for the entity: advertising initiatives
+Entity type: OTHER
+Representative name for the entity: area
+Entity type: LOCATION
+Representative name for the entity: history
+Entity type: OTHER
+Representative name for the entity: itswork
+Entity type: OTHER
+Representative name for the entity: atrendsetter
+Entity type: PERSON
+Representative name for the entity: background
+Entity type: OTHER
+Representative name for the entity: customer service
+Entity type: OTHER
+Representative name for the entity: Ilook
+Entity type: OTHER
+Representative name for the entity: customer service
+Entity type: OTHER
+Representative name for the entity: Advertising
+Entity type: OTHER
+Representative name for the entity: aportfolio
+Entity type: OTHER
+Representative name for the entity: resume
+Entity type: OTHER
+Representative name for the entity: website
+Entity type: OTHER
+Representative name for the entity: profile
+Entity type: OTHER
+Representative name for the entity: event planning
+Entity type: OTHER
+Representative name for the entity: experience
+Entity type: OTHER
+Representative name for the entity: country
+Entity type: LOCATION
+Representative name for the entity: transportationindustry
+Entity type: OTHER
+Representative name for the entity: career position
+Entity type: OTHER
+Representative name for the entity: advertising environment likethat
+Entity type: OTHER
+Representative name for the entity: achievement
+Entity type: OTHER
+Representative name for the entity: communication design degreeprogram
+Entity type: OTHER
+Representative name for the entity: record
+Entity type: OTHER
+Representative name for the entity: weekend manager
+Entity type: PERSON
+Representative name for the entity: wait staff
+Entity type: PERSON
+Representative name for the entity: restaurant
+Entity type: LOCATION
+Representative name for the entity: aspects
+Entity type: OTHER
+Representative name for the entity: TXDOT
+Entity type: ORGANIZATION
+wikipedia_url: https://en.wikipedia.org/wiki/Texas_Department_of_Transportation
+mid: /m/0bddlt
+Representative name for the entity: Dallas/Fort Worth
+Entity type: LOCATION
+wikipedia_url: https://en.wikipedia.org/wiki/Dallasâ€“Fort_Worth_metroplex
+mid: /m/01wjf0
+Representative name for the entity: waiter
+Entity type: PERSON
+Representative name for the entity: leadership
+Entity type: OTHER
+Representative name for the entity: company
+Entity type: ORGANIZATION
+Representative name for the entity: opportunities
+Entity type: OTHER
+Representative name for the entity: yourearliest convenience
+Entity type: OTHER
+Representative name for the entity: interview
+Entity type: EVENT
+Representative name for the entity: FaceAdvertising.
+Entity type: OTHER
+Representative name for the entity: Give 'Em a Brake
+Entity type: OTHER
+Representative name for the entity: Cheddar
+Entity type: LOCATION
+mid: /m/0g6yxw
+wikipedia_url: https://en.wikipedia.org/wiki/Cheddar's_Scratch_Kitchen
+Representative name for the entity: information
+Entity type: OTHER
+Representative name for the entity: toensure
+Entity type: OTHER
+Representative name for the entity: time
+Entity type: OTHER
+Representative name for the entity: consideration
+Entity type: OTHER
+Representative name for the entity: work
+Entity type: OTHER
+Representative name for the entity: advertising
+Entity type: OTHER
+Representative name for the entity: advertising campaigns
+Entity type: EVENT
+Representative name for the entity: groups
+Entity type: ORGANIZATION
+Representative name for the entity: individual
+Entity type: PERSON
+Representative name for the entity: more
+Entity type: OTHER
+Representative name for the entity: request.
+Entity type: OTHER
+Representative name for the entity: 1
+Entity type: NUMBER
+value: 1
+Representative name for the entity: 2018
+Entity type: NUMBER
+value: 2018
+Representative name for the entity: four
+Entity type: NUMBER
+value: 4
+Representative name for the entity: one
+Entity type: NUMBER
+value: 1
+Representative name for the entity: 0000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: 000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: 000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: two
+Entity type: NUMBER
+value: 2
+Representative name for the entity: In Your Face Advertisinghas
+Entity type: WORK_OF_ART
+Representative name for the entity: State
+Entity type: LOCATION
+Representative name for the entity: State
+Entity type: LOCATION
+Representative name for the entity: openings
+Entity type: EVENT
+Representative name for the entity: Media Relations Office
+Entity type: ORGANIZATION
+Representative name for the entity: Job TitleDepartment NameCompany
+Entity type: ORGANIZATION
+Representative name for the entity: 2018Contact Name
+Entity type: OTHER
+Representative name for the entity: NameAddressCity
+Entity type: OTHER
+Representative name for the entity: Zip CodeDear
+Entity type: LOCATION
+Representative name for the entity: Zip CodePhone
+Entity type: OTHER
+Representative name for the entity: NameCompany AddressCity
+Entity type: OTHER
+Representative name for the entity: University of North Texas Career Center
+Entity type: ORGANIZATION
+Representative name for the entity: campaigns
+Entity type: EVENT
+Representative name for the entity: andpromotions
+Entity type: OTHER
+Representative name for the entity: advertising initiatives
+Entity type: OTHER
+Representative name for the entity: area
+Entity type: LOCATION
+Representative name for the entity: history
+Entity type: OTHER
+Representative name for the entity: itswork
+Entity type: OTHER
+Representative name for the entity: atrendsetter
+Entity type: PERSON
+Representative name for the entity: background
+Entity type: OTHER
+Representative name for the entity: customer service
+Entity type: OTHER
+Representative name for the entity: Ilook
+Entity type: OTHER
+Representative name for the entity: customer service
+Entity type: OTHER
+Representative name for the entity: Advertising
+Entity type: OTHER
+Representative name for the entity: aportfolio
+Entity type: OTHER
+Representative name for the entity: resume
+Entity type: OTHER
+Representative name for the entity: website
+Entity type: OTHER
+Representative name for the entity: profile
+Entity type: OTHER
+Representative name for the entity: event planning
+Entity type: OTHER
+Representative name for the entity: experience
+Entity type: OTHER
+Representative name for the entity: country
+Entity type: LOCATION
+Representative name for the entity: transportationindustry
+Entity type: OTHER
+Representative name for the entity: career position
+Entity type: OTHER
+Representative name for the entity: advertising environment likethat
+Entity type: OTHER
+Representative name for the entity: achievement
+Entity type: OTHER
+Representative name for the entity: communication design degreeprogram
+Entity type: OTHER
+Representative name for the entity: record
+Entity type: OTHER
+Representative name for the entity: weekend manager
+Entity type: PERSON
+Representative name for the entity: wait staff
+Entity type: PERSON
+Representative name for the entity: restaurant
+Entity type: LOCATION
+Representative name for the entity: aspects
+Entity type: OTHER
+Representative name for the entity: TXDOT
+Entity type: ORGANIZATION
+wikipedia_url: https://en.wikipedia.org/wiki/Texas_Department_of_Transportation
+mid: /m/0bddlt
+Representative name for the entity: Dallas/Fort Worth
+Entity type: LOCATION
+wikipedia_url: https://en.wikipedia.org/wiki/Dallasâ€“Fort_Worth_metroplex
+mid: /m/01wjf0
+Representative name for the entity: waiter
+Entity type: PERSON
+Representative name for the entity: leadership
+Entity type: OTHER
+Representative name for the entity: company
+Entity type: ORGANIZATION
+Representative name for the entity: opportunities
+Entity type: OTHER
+Representative name for the entity: yourearliest convenience
+Entity type: OTHER
+Representative name for the entity: interview
+Entity type: EVENT
+Representative name for the entity: FaceAdvertising.
+Entity type: OTHER
+Representative name for the entity: Give 'Em a Brake
+Entity type: OTHER
+Representative name for the entity: Cheddar
+Entity type: LOCATION
+wikipedia_url: https://en.wikipedia.org/wiki/Cheddar's_Scratch_Kitchen
+mid: /m/0g6yxw
+Representative name for the entity: information
+Entity type: OTHER
+Representative name for the entity: toensure
+Entity type: OTHER
+Representative name for the entity: time
+Entity type: OTHER
+Representative name for the entity: consideration
+Entity type: OTHER
+Representative name for the entity: work
+Entity type: OTHER
+Representative name for the entity: advertising
+Entity type: OTHER
+Representative name for the entity: advertising campaigns
+Entity type: EVENT
+Representative name for the entity: groups
+Entity type: ORGANIZATION
+Representative name for the entity: individual
+Entity type: PERSON
+Representative name for the entity: more
+Entity type: OTHER
+Representative name for the entity: request.
+Entity type: OTHER
+Representative name for the entity: four
+Entity type: NUMBER
+value: 4
+Representative name for the entity: 1
+Entity type: NUMBER
+value: 1
+Representative name for the entity: 2018
+Entity type: NUMBER
+value: 2018
+Representative name for the entity: two
+Entity type: NUMBER
+value: 2
+Representative name for the entity: 000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: 000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: 0000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: one
+Entity type: NUMBER
+value: 1
+Representative name for the entity: In Your Face Advertisinghas
+Entity type: WORK_OF_ART
+Representative name for the entity: State
+Entity type: LOCATION
+Representative name for the entity: State
+Entity type: LOCATION
+Representative name for the entity: openings
+Entity type: EVENT
+Representative name for the entity: Media Relations Office
+Entity type: ORGANIZATION
+Representative name for the entity: Job TitleDepartment NameCompany
+Entity type: ORGANIZATION
+Representative name for the entity: 2018Contact Name
+Entity type: OTHER
+Representative name for the entity: NameAddressCity
+Entity type: OTHER
+Representative name for the entity: Zip CodeDear
+Entity type: LOCATION
+Representative name for the entity: Zip CodePhone
+Entity type: OTHER
+Representative name for the entity: NameCompany AddressCity
+Entity type: OTHER
+Representative name for the entity: University of North Texas Career Center
+Entity type: ORGANIZATION
+Representative name for the entity: campaigns
+Entity type: EVENT
+Representative name for the entity: andpromotions
+Entity type: OTHER
+Representative name for the entity: advertising initiatives
+Entity type: OTHER
+Representative name for the entity: area
+Entity type: LOCATION
+Representative name for the entity: history
+Entity type: OTHER
+Representative name for the entity: itswork
+Entity type: OTHER
+Representative name for the entity: atrendsetter
+Entity type: PERSON
+Representative name for the entity: background
+Entity type: OTHER
+Representative name for the entity: customer service
+Entity type: OTHER
+Representative name for the entity: Ilook
+Entity type: OTHER
+Representative name for the entity: customer service
+Entity type: OTHER
+Representative name for the entity: Advertising
+Entity type: OTHER
+Representative name for the entity: aportfolio
+Entity type: OTHER
+Representative name for the entity: resume
+Entity type: OTHER
+Representative name for the entity: website
+Entity type: OTHER
+Representative name for the entity: profile
+Entity type: OTHER
+Representative name for the entity: event planning
+Entity type: OTHER
+Representative name for the entity: experience
+Entity type: OTHER
+Representative name for the entity: country
+Entity type: LOCATION
+Representative name for the entity: transportationindustry
+Entity type: OTHER
+Representative name for the entity: career position
+Entity type: OTHER
+Representative name for the entity: advertising environment likethat
+Entity type: OTHER
+Representative name for the entity: achievement
+Entity type: OTHER
+Representative name for the entity: communication design degreeprogram
+Entity type: OTHER
+Representative name for the entity: record
+Entity type: OTHER
+Representative name for the entity: weekend manager
+Entity type: PERSON
+Representative name for the entity: wait staff
+Entity type: PERSON
+Representative name for the entity: restaurant
+Entity type: LOCATION
+Representative name for the entity: aspects
+Entity type: OTHER
+Representative name for the entity: TXDOT
+Entity type: ORGANIZATION
+wikipedia_url: https://en.wikipedia.org/wiki/Texas_Department_of_Transportation
+mid: /m/0bddlt
+Representative name for the entity: Dallas/Fort Worth
+Entity type: LOCATION
+wikipedia_url: https://en.wikipedia.org/wiki/Dallasâ€“Fort_Worth_metroplex
+mid: /m/01wjf0
+Representative name for the entity: waiter
+Entity type: PERSON
+Representative name for the entity: leadership
+Entity type: OTHER
+Representative name for the entity: company
+Entity type: ORGANIZATION
+Representative name for the entity: opportunities
+Entity type: OTHER
+Representative name for the entity: yourearliest convenience
+Entity type: OTHER
+Representative name for the entity: interview
+Entity type: EVENT
+Representative name for the entity: FaceAdvertising.
+Entity type: OTHER
+Representative name for the entity: Give 'Em a Brake
+Entity type: OTHER
+Representative name for the entity: Cheddar
+Entity type: LOCATION
+wikipedia_url: https://en.wikipedia.org/wiki/Cheddar's_Scratch_Kitchen
+mid: /m/0g6yxw
+Representative name for the entity: information
+Entity type: OTHER
+Representative name for the entity: toensure
+Entity type: OTHER
+Representative name for the entity: time
+Entity type: OTHER
+Representative name for the entity: consideration
+Entity type: OTHER
+Representative name for the entity: work
+Entity type: OTHER
+Representative name for the entity: advertising
+Entity type: OTHER
+Representative name for the entity: advertising campaigns
+Entity type: EVENT
+Representative name for the entity: groups
+Entity type: ORGANIZATION
+Representative name for the entity: individual
+Entity type: PERSON
+Representative name for the entity: more
+Entity type: OTHER
+Representative name for the entity: request.
+Entity type: OTHER
+Representative name for the entity: 1
+Entity type: NUMBER
+value: 1
+Representative name for the entity: 2018
+Entity type: NUMBER
+value: 2018
+Representative name for the entity: 000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: two
+Entity type: NUMBER
+value: 2
+Representative name for the entity: one
+Entity type: NUMBER
+value: 1
+Representative name for the entity: 000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: 0000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: four
+Entity type: NUMBER
+value: 4
+Representative name for the entity: In Your Face Advertisinghas
+Entity type: WORK_OF_ART
+Representative name for the entity: State
+Entity type: LOCATION
+Representative name for the entity: State
+Entity type: LOCATION
+Representative name for the entity: openings
+Entity type: EVENT
+Representative name for the entity: Media Relations Office
+Entity type: ORGANIZATION
+Representative name for the entity: Job TitleDepartment NameCompany
+Entity type: ORGANIZATION
+Representative name for the entity: 2018Contact Name
+Entity type: OTHER
+Representative name for the entity: NameAddressCity
+Entity type: OTHER
+Representative name for the entity: Zip CodeDear
+Entity type: LOCATION
+Representative name for the entity: Zip CodePhone
+Entity type: OTHER
+Representative name for the entity: NameCompany AddressCity
+Entity type: OTHER
+Representative name for the entity: University of North Texas Career Center
+Entity type: ORGANIZATION
+Representative name for the entity: campaigns
+Entity type: EVENT
+Representative name for the entity: andpromotions
+Entity type: OTHER
+Representative name for the entity: advertising initiatives
+Entity type: OTHER
+Representative name for the entity: area
+Entity type: LOCATION
+Representative name for the entity: history
+Entity type: OTHER
+Representative name for the entity: itswork
+Entity type: OTHER
+Representative name for the entity: atrendsetter
+Entity type: PERSON
+Representative name for the entity: background
+Entity type: OTHER
+Representative name for the entity: customer service
+Entity type: OTHER
+Representative name for the entity: Ilook
+Entity type: OTHER
+Representative name for the entity: customer service
+Entity type: OTHER
+Representative name for the entity: Advertising
+Entity type: OTHER
+Representative name for the entity: aportfolio
+Entity type: OTHER
+Representative name for the entity: resume
+Entity type: OTHER
+Representative name for the entity: website
+Entity type: OTHER
+Representative name for the entity: profile
+Entity type: OTHER
+Representative name for the entity: event planning
+Entity type: OTHER
+Representative name for the entity: experience
+Entity type: OTHER
+Representative name for the entity: country
+Entity type: LOCATION
+Representative name for the entity: transportationindustry
+Entity type: OTHER
+Representative name for the entity: career position
+Entity type: OTHER
+Representative name for the entity: advertising environment likethat
+Entity type: OTHER
+Representative name for the entity: achievement
+Entity type: OTHER
+Representative name for the entity: communication design degreeprogram
+Entity type: OTHER
+Representative name for the entity: record
+Entity type: OTHER
+Representative name for the entity: weekend manager
+Entity type: PERSON
+Representative name for the entity: wait staff
+Entity type: PERSON
+Representative name for the entity: restaurant
+Entity type: LOCATION
+Representative name for the entity: aspects
+Entity type: OTHER
+Representative name for the entity: TXDOT
+Entity type: ORGANIZATION
+wikipedia_url: https://en.wikipedia.org/wiki/Texas_Department_of_Transportation
+mid: /m/0bddlt
+Representative name for the entity: Dallas/Fort Worth
+Entity type: LOCATION
+wikipedia_url: https://en.wikipedia.org/wiki/Dallas–Fort_Worth_metroplex
+mid: /m/01wjf0
+Representative name for the entity: waiter
+Entity type: PERSON
+Representative name for the entity: leadership
+Entity type: OTHER
+Representative name for the entity: company
+Entity type: ORGANIZATION
+Representative name for the entity: opportunities
+Entity type: OTHER
+Representative name for the entity: yourearliest convenience
+Entity type: OTHER
+Representative name for the entity: interview
+Entity type: EVENT
+Representative name for the entity: FaceAdvertising.
+Entity type: OTHER
+Representative name for the entity: Give 'Em a Brake
+Entity type: OTHER
+Representative name for the entity: Cheddar
+Entity type: LOCATION
+wikipedia_url: https://en.wikipedia.org/wiki/Cheddar's_Scratch_Kitchen
+mid: /m/0g6yxw
+Representative name for the entity: information
+Entity type: OTHER
+Representative name for the entity: toensure
+Entity type: OTHER
+Representative name for the entity: time
+Entity type: OTHER
+Representative name for the entity: consideration
+Entity type: OTHER
+Representative name for the entity: work
+Entity type: OTHER
+Representative name for the entity: advertising
+Entity type: OTHER
+Representative name for the entity: advertising campaigns
+Entity type: EVENT
+Representative name for the entity: groups
+Entity type: ORGANIZATION
+Representative name for the entity: individual
+Entity type: PERSON
+Representative name for the entity: more
+Entity type: OTHER
+Representative name for the entity: request.
+Entity type: OTHER
+Representative name for the entity: one
+Entity type: NUMBER
+value: 1
+Representative name for the entity: 0000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: 000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: 000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: two
+Entity type: NUMBER
+value: 2
+Representative name for the entity: 1
+Entity type: NUMBER
+value: 1
+Representative name for the entity: four
+Entity type: NUMBER
+value: 4
+Representative name for the entity: 2018
+Entity type: NUMBER
+value: 2018
+Representative name for the entity: In Your Face Advertisinghas
+Entity type: WORK_OF_ART
+Representative name for the entity: State
+Entity type: LOCATION
+Representative name for the entity: State
+Entity type: LOCATION
+Representative name for the entity: openings
+Entity type: EVENT
+Representative name for the entity: Media Relations Office
+Entity type: ORGANIZATION
+Representative name for the entity: Job TitleDepartment NameCompany
+Entity type: ORGANIZATION
+Representative name for the entity: 2018Contact Name
+Entity type: OTHER
+Representative name for the entity: NameAddressCity
+Entity type: OTHER
+Representative name for the entity: Zip CodeDear
+Entity type: LOCATION
+Representative name for the entity: Zip CodePhone
+Entity type: OTHER
+Representative name for the entity: NameCompany AddressCity
+Entity type: OTHER
+Representative name for the entity: University of North Texas Career Center
+Entity type: ORGANIZATION
+Representative name for the entity: campaigns
+Entity type: EVENT
+Representative name for the entity: andpromotions
+Entity type: OTHER
+Representative name for the entity: advertising initiatives
+Entity type: OTHER
+Representative name for the entity: area
+Entity type: LOCATION
+Representative name for the entity: history
+Entity type: OTHER
+Representative name for the entity: itswork
+Entity type: OTHER
+Representative name for the entity: atrendsetter
+Entity type: PERSON
+Representative name for the entity: background
+Entity type: OTHER
+Representative name for the entity: customer service
+Entity type: OTHER
+Representative name for the entity: Ilook
+Entity type: OTHER
+Representative name for the entity: customer service
+Entity type: OTHER
+Representative name for the entity: Advertising
+Entity type: OTHER
+Representative name for the entity: aportfolio
+Entity type: OTHER
+Representative name for the entity: resume
+Entity type: OTHER
+Representative name for the entity: website
+Entity type: OTHER
+Representative name for the entity: profile
+Entity type: OTHER
+Representative name for the entity: event planning
+Entity type: OTHER
+Representative name for the entity: experience
+Entity type: OTHER
+Representative name for the entity: country
+Entity type: LOCATION
+Representative name for the entity: transportationindustry
+Entity type: OTHER
+Representative name for the entity: career position
+Entity type: OTHER
+Representative name for the entity: advertising environment likethat
+Entity type: OTHER
+Representative name for the entity: achievement
+Entity type: OTHER
+Representative name for the entity: communication design degreeprogram
+Entity type: OTHER
+Representative name for the entity: record
+Entity type: OTHER
+Representative name for the entity: weekend manager
+Entity type: PERSON
+Representative name for the entity: wait staff
+Entity type: PERSON
+Representative name for the entity: restaurant
+Entity type: LOCATION
+Representative name for the entity: aspects
+Entity type: OTHER
+Representative name for the entity: TXDOT
+Entity type: ORGANIZATION
+wikipedia_url: https://en.wikipedia.org/wiki/Texas_Department_of_Transportation
+mid: /m/0bddlt
+Representative name for the entity: Dallas/Fort Worth
+Entity type: LOCATION
+wikipedia_url: https://en.wikipedia.org/wiki/Dallas–Fort_Worth_metroplex
+mid: /m/01wjf0
+Representative name for the entity: waiter
+Entity type: PERSON
+Representative name for the entity: leadership
+Entity type: OTHER
+Representative name for the entity: company
+Entity type: ORGANIZATION
+Representative name for the entity: opportunities
+Entity type: OTHER
+Representative name for the entity: yourearliest convenience
+Entity type: OTHER
+Representative name for the entity: interview
+Entity type: EVENT
+Representative name for the entity: FaceAdvertising.
+Entity type: OTHER
+Representative name for the entity: Give 'Em a Brake
+Entity type: OTHER
+Representative name for the entity: Cheddar
+Entity type: LOCATION
+wikipedia_url: https://en.wikipedia.org/wiki/Cheddar's_Scratch_Kitchen
+mid: /m/0g6yxw
+Representative name for the entity: information
+Entity type: OTHER
+Representative name for the entity: toensure
+Entity type: OTHER
+Representative name for the entity: time
+Entity type: OTHER
+Representative name for the entity: consideration
+Entity type: OTHER
+Representative name for the entity: work
+Entity type: OTHER
+Representative name for the entity: advertising
+Entity type: OTHER
+Representative name for the entity: advertising campaigns
+Entity type: EVENT
+Representative name for the entity: groups
+Entity type: ORGANIZATION
+Representative name for the entity: individual
+Entity type: PERSON
+Representative name for the entity: more
+Entity type: OTHER
+Representative name for the entity: request.
+Entity type: OTHER
+Representative name for the entity: one
+Entity type: NUMBER
+value: 1
+Representative name for the entity: 000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: 0000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: 000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: two
+Entity type: NUMBER
+value: 2
+Representative name for the entity: four
+Entity type: NUMBER
+value: 4
+Representative name for the entity: 1
+Entity type: NUMBER
+value: 1
+Representative name for the entity: 2018
+Entity type: NUMBER
+value: 2018
+Representative name for the entity: In Your Face Advertisinghas
+Entity type: WORK_OF_ART
+Representative name for the entity: State
+Entity type: LOCATION
+Representative name for the entity: State
+Entity type: LOCATION
+Representative name for the entity: openings
+Entity type: EVENT
+Representative name for the entity: Media Relations Office
+Entity type: ORGANIZATION
+Representative name for the entity: Job TitleDepartment NameCompany
+Entity type: ORGANIZATION
+Representative name for the entity: 2018Contact Name
+Entity type: OTHER
+Representative name for the entity: NameAddressCity
+Entity type: OTHER
+Representative name for the entity: Zip CodeDear
+Entity type: LOCATION
+Representative name for the entity: Zip CodePhone
+Entity type: OTHER
+Representative name for the entity: NameCompany AddressCity
+Entity type: OTHER
+Representative name for the entity: University of North Texas Career Center
+Entity type: ORGANIZATION
+Representative name for the entity: campaigns
+Entity type: EVENT
+Representative name for the entity: andpromotions
+Entity type: OTHER
+Representative name for the entity: advertising initiatives
+Entity type: OTHER
+Representative name for the entity: area
+Entity type: LOCATION
+Representative name for the entity: history
+Entity type: OTHER
+Representative name for the entity: itswork
+Entity type: OTHER
+Representative name for the entity: atrendsetter
+Entity type: PERSON
+Representative name for the entity: background
+Entity type: OTHER
+Representative name for the entity: customer service
+Entity type: OTHER
+Representative name for the entity: Ilook
+Entity type: OTHER
+Representative name for the entity: customer service
+Entity type: OTHER
+Representative name for the entity: Advertising
+Entity type: OTHER
+Representative name for the entity: aportfolio
+Entity type: OTHER
+Representative name for the entity: resume
+Entity type: OTHER
+Representative name for the entity: website
+Entity type: OTHER
+Representative name for the entity: profile
+Entity type: OTHER
+Representative name for the entity: event planning
+Entity type: OTHER
+Representative name for the entity: experience
+Entity type: OTHER
+Representative name for the entity: country
+Entity type: LOCATION
+Representative name for the entity: transportationindustry
+Entity type: OTHER
+Representative name for the entity: career position
+Entity type: OTHER
+Representative name for the entity: advertising environment likethat
+Entity type: OTHER
+Representative name for the entity: achievement
+Entity type: OTHER
+Representative name for the entity: communication design degreeprogram
+Entity type: OTHER
+Representative name for the entity: record
+Entity type: OTHER
+Representative name for the entity: weekend manager
+Entity type: PERSON
+Representative name for the entity: wait staff
+Entity type: PERSON
+Representative name for the entity: restaurant
+Entity type: LOCATION
+Representative name for the entity: aspects
+Entity type: OTHER
+Representative name for the entity: TXDOT
+Entity type: ORGANIZATION
+wikipedia_url: https://en.wikipedia.org/wiki/Texas_Department_of_Transportation
+mid: /m/0bddlt
+Representative name for the entity: Dallas/Fort Worth
+Entity type: LOCATION
+wikipedia_url: https://en.wikipedia.org/wiki/Dallas–Fort_Worth_metroplex
+mid: /m/01wjf0
+Representative name for the entity: waiter
+Entity type: PERSON
+Representative name for the entity: leadership
+Entity type: OTHER
+Representative name for the entity: company
+Entity type: ORGANIZATION
+Representative name for the entity: opportunities
+Entity type: OTHER
+Representative name for the entity: yourearliest convenience
+Entity type: OTHER
+Representative name for the entity: interview
+Entity type: EVENT
+Representative name for the entity: FaceAdvertising.
+Entity type: OTHER
+Representative name for the entity: Give 'Em a Brake
+Entity type: OTHER
+Representative name for the entity: Cheddar
+Entity type: LOCATION
+wikipedia_url: https://en.wikipedia.org/wiki/Cheddar's_Scratch_Kitchen
+mid: /m/0g6yxw
+Representative name for the entity: information
+Entity type: OTHER
+Representative name for the entity: toensure
+Entity type: OTHER
+Representative name for the entity: time
+Entity type: OTHER
+Representative name for the entity: consideration
+Entity type: OTHER
+Representative name for the entity: work
+Entity type: OTHER
+Representative name for the entity: advertising
+Entity type: OTHER
+Representative name for the entity: advertising campaigns
+Entity type: EVENT
+Representative name for the entity: groups
+Entity type: ORGANIZATION
+Representative name for the entity: individual
+Entity type: PERSON
+Representative name for the entity: more
+Entity type: OTHER
+Representative name for the entity: request.
+Entity type: OTHER
+Representative name for the entity: 2018
+Entity type: NUMBER
+value: 2018
+Representative name for the entity: 000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: 0000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: four
+Entity type: NUMBER
+value: 4
+Representative name for the entity: two
+Entity type: NUMBER
+value: 2
+Representative name for the entity: 000
+Entity type: NUMBER
+value: 0
+Representative name for the entity: 1
+Entity type: NUMBER
+value: 1
+Representative name for the entity: one
+Entity type: NUMBER
+value: 1

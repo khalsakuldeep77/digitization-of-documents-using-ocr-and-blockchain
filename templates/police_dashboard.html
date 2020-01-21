@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>INSPINIA | Static Tables</title>
+    <title>Get Justice</title>
 
     <link href="../static/css/bootstrap.min.css" rel="stylesheet">
     <link href="../static/font-awesome/css/font-awesome.css" rel="stylesheet">
@@ -35,7 +35,7 @@
         </div>
             <ul class="nav navbar-top-links navbar-right">
                 <li>
-                    <span class="m-r-sm text-muted welcome-message">Welcome to INSPINIA+ Admin Theme.</span>
+                    <span class="m-r-sm text-muted welcome-message">Welcome to Get Justice</span>
                 </li>
                 <li class="dropdown">
                     <a class="dropdown-toggle count-info" data-toggle="dropdown" href="#">
@@ -135,9 +135,9 @@
 
 
                 <li>
-                    <a href="login.html">
-                        <i class="fa fa-sign-out"></i> Log out
-                    </a>
+                    <form action="{{url_for('logout')}}">
+                        <button class="btn btn-sm btn-primary">Log out</button> 
+                    </form>
                 </li>
             </ul>
 
@@ -152,76 +152,93 @@
                         </div>
                         <div class="ibox-content">
                             <div class="row">
-                                <div class="col-sm-5 m-b-xs"><select class="input-sm form-control input-s-sm inline">
-                                    <option value="0">Option 1</option>
-                                    <option value="1">Option 2</option>
-                                    <option value="2">Option 3</option>
-                                    <option value="3">Option 4</option>
-                                </select>
+                                <div class="col-sm-4">
+                                    <div class="input-group"><input type="text" placeholder="Search" class="input-sm form-control"> <span class="input-group-btn">
+                                        <button type="button" class="btn btn-sm btn-primary"> Go!</button> </span></div>
                                 </div>
-                                <div class="col-sm-4 m-b-xs">
+                                <div class="col-sm-6">
                                     <div data-toggle="buttons" class="btn-group">
                                         <label class="btn btn-sm btn-white"> <input type="radio" id="option1" name="options"> Day </label>
                                         <label class="btn btn-sm btn-white active"> <input type="radio" id="option2" name="options"> Week </label>
                                         <label class="btn btn-sm btn-white"> <input type="radio" id="option3" name="options"> Month </label>
                                     </div>
                                 </div>
-                                <div class="col-sm-3">
-                                    <div class="input-group"><input type="text" placeholder="Search" class="input-sm form-control"> <span class="input-group-btn">
-                                        <button type="button" class="btn btn-sm btn-primary"> Go!</button> </span></div>
+                                <div class="col-sm-2">
+                                    <button class="btn btn-sm btn-primary" data-toggle="modal" data-target="#myModal">Add Case</button>
                                 </div>
+    <!--Modal start-->
+    <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog" data-backdrop="static">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+            <h4 class="modal-title">Add Case</h4> 
+          
+          
+        </div>
+        <div class="modal-body">
+          <p>
+            <form role="form" action="{{url_for('addcase')}}" method = "POST">
+            <div class="modal-body">
+                
+                <div class="form-group">
+                    <label>Enter Case Id: </label>
+                    <input type="text" class="form-control" name="case_id" placeholder="case id">
+                </div>
+                
+                <div class="form-group">
+                    <label>Enter Case Title: </label>
+                    <input type="text" class="form-control" name="case_title" placeholder="case title">
+                </div>
+
+                <div class="form-group">
+                    <label>Enter Investigation UserID: </label>
+                    <input type="text" class="form-control" name="inv_off_name" placeholder="investigation officer name">
+                </div>
+
+                
+ 
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button class="btn btn-sm btn-primary btn-block">Proceed</a>
+            </div>
+        </form>
+        </p>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+<!--Modal end-->
+                                
+                                <br><br><br><br>
                             </div>
                             <div class="table-responsive">
                                 <table class="table table-striped">
                                     <thead>
                                     <tr>
-
-                                        <th></th>
+                                        <th>Case No.</th>
                                         <th>Case Title </th>
-                                        <th>Completed </th>
-                                        <th>Task</th>
-                                        <th>Date</th>
-                                        <th>Action</th>
+                                        <th>Investigation Officer Id </th>
+                                        
                                     </tr>
                                     </thead>
                                     <tbody>
+                                    {% for row in data %}
+                                    <form action="{{url_for('addDoc')}}" method="POST"></form>
                                     <tr>
-                                        <td><input type="checkbox"  checked class="i-checks" name="input[]"></td>
-                                        <td>Project<small>This is example of project</small></td>
-                                        <td><span class="pie">0.52/1.561</span></td>
-                                        <td>20%</td>
-                                        <td>Jul 14, 2013</td>
-                                        <td><a href="#"><i class="fa fa-check text-navy"></i></a></td>
-                                    </tr>
-                                    <tr>
-                                        <td><input type="checkbox" class="i-checks" name="input[]"></td>
-                                        <td>Alpha project</td>
-                                        <td><span class="pie">6,9</span></td>
-                                        <td>40%</td>
-                                        <td>Jul 16, 2013</td>
-                                        <td><a href="#"><i class="fa fa-check text-navy"></i></a></td>
-                                    </tr>
-                                    <tr>
-                                        <td><input type="checkbox" class="i-checks" name="input[]"></td>
-                                        <td>Betha project</td>
-                                        <td><span class="pie">3,1</span></td>
-                                        <td>75%</td>
-                                        <td>Jul 18, 2013</td>
-                                        <td><a href="#"><i class="fa fa-check text-navy"></i></a></td>
-                                    </tr>
-                                    <tr>
-                                        <td><input type="checkbox" class="i-checks" name="input[]"></td>
-                                        <td>Gamma project</td>
-                                        <td><span class="pie">4,9</span></td>
-                                        <td>18%</td>
-                                        <td>Jul 22, 2013</td>
-                                        <td><a href="#"><i class="fa fa-check text-navy"></i></a></td>
-                                    </tr>
+                                        <td name="case_number">{{ row[0] }}</td>
+                                        <td name="case_title">{{ row[1]}}</td>
+                                        <td name="investigation_officer">{{ row[3]}}</td>
+                                        <td><button type="submit"class="btn btn-sm btn-primary">View</button></td>
+                                        </tr>
+                                    </form>
+                                    {% endfor %}
                                     </tbody>
                                 </table>
-                            </div>
-                            <div>
-                              <button class="btn btn-lg-md">Add Case</button>
                             </div>
                         </div>
                     </div>

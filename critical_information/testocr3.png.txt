@@ -1,0 +1,436 @@
+Representative name for the entity: Street Address
+Entity type: OTHER
+wikipedia_url: https://en.wikipedia.org/wiki/Address
+mid: /m/03w6kx
+Representative name for the entity: intent
+Entity type: OTHER
+Representative name for the entity: Email Address
+Entity type: OTHER
+Representative name for the entity: Recipient
+Entity type: PERSON
+Representative name for the entity: City
+Entity type: LOCATION
+wikipedia_url: https://en.wikipedia.org/wiki/City
+mid: /m/01n32
+Representative name for the entity: St Zip
+Entity type: ORGANIZATION
+Representative name for the entity: specifics
+Entity type: OTHER
+Representative name for the entity: Name
+Entity type: OTHER
+Representative name for the entity: letter
+Entity type: WORK_OF_ART
+Representative name for the entity: Company
+Entity type: ORGANIZATION
+Representative name for the entity: Recipient
+Entity type: PERSON
+Representative name for the entity: action
+Entity type: OTHER
+Representative name for the entity: purchase
+Entity type: OTHER
+Representative name for the entity: partner
+Entity type: PERSON
+Representative name for the entity: license
+Entity type: OTHER
+Representative name for the entity: St Zip)Dear
+Entity type: LOCATION
+Representative name for the entity: intent
+Entity type: OTHER
+Representative name for the entity: conditions
+Entity type: OTHER
+Representative name for the entity: transaction
+Entity type: OTHER
+Representative name for the entity: item
+Entity type: OTHER
+Representative name for the entity: item
+Entity type: OTHER
+Representative name for the entity: compensation
+Entity type: OTHER
+Representative name for the entity: timing
+Entity type: OTHER
+Representative name for the entity: transaction
+Entity type: OTHER
+Representative name for the entity: orsupporting material
+Entity type: OTHER
+Representative name for the entity: variations
+Entity type: OTHER
+Representative name for the entity: respects
+Entity type: OTHER
+Representative name for the entity: liabilities
+Entity type: OTHER
+Representative name for the entity: Considerations
+Entity type: OTHER
+Representative name for the entity: asconsideration
+Entity type: OTHER
+Representative name for the entity: amounts
+Entity type: OTHER
+Representative name for the entity: conditions
+Entity type: OTHER
+Representative name for the entity: place
+Entity type: OTHER
+Representative name for the entity: timing
+Entity type: OTHER
+Representative name for the entity: Purchase
+Entity type: EVENT
+Representative name for the entity: indication
+Entity type: OTHER
+Representative name for the entity: Agreement
+Entity type: OTHER
+Representative name for the entity: Name
+Entity type: OTHER
+Representative name for the entity: letters
+Entity type: WORK_OF_ART
+Representative name for the entity: sample letters
+Entity type: WORK_OF_ART
+Representative name for the entity: letter
+Entity type: WORK_OF_ART
+Representative name for the entity: fax
+Entity type: OTHER
+Representative name for the entity: mail
+Entity type: OTHER
+Representative name for the entity: tips
+Entity type: OTHER
+Representative name for the entity: offer
+Entity type: OTHER
+Representative name for the entity: conditions
+Entity type: OTHER
+Representative name for the entity: parties
+Entity type: OTHER
+Representative name for the entity: Vertex42.com
+Entity type: OTHER
+mid: /g/1232kkb7b
+Representative name for the entity: limitations
+Entity type: OTHER
+Representative name for the entity: due diligence
+Entity type: OTHER
+Representative name for the entity: confidentiality
+Entity type: OTHER
+Representative name for the entity: details
+Entity type: OTHER
+Representative name for the entity: Street Address
+Entity type: OTHER
+wikipedia_url: https://en.wikipedia.org/wiki/Address
+mid: /m/03w6kx
+Representative name for the entity: intent
+Entity type: OTHER
+Representative name for the entity: Email Address
+Entity type: OTHER
+Representative name for the entity: Recipient
+Entity type: PERSON
+Representative name for the entity: City
+Entity type: LOCATION
+wikipedia_url: https://en.wikipedia.org/wiki/City
+mid: /m/01n32
+Representative name for the entity: St Zip
+Entity type: ORGANIZATION
+Representative name for the entity: specifics
+Entity type: OTHER
+Representative name for the entity: Name
+Entity type: OTHER
+Representative name for the entity: letter
+Entity type: WORK_OF_ART
+Representative name for the entity: Company
+Entity type: ORGANIZATION
+Representative name for the entity: Recipient
+Entity type: PERSON
+Representative name for the entity: action
+Entity type: OTHER
+Representative name for the entity: purchase
+Entity type: OTHER
+Representative name for the entity: partner
+Entity type: PERSON
+Representative name for the entity: license
+Entity type: OTHER
+Representative name for the entity: St Zip)Dear
+Entity type: LOCATION
+Representative name for the entity: intent
+Entity type: OTHER
+Representative name for the entity: conditions
+Entity type: OTHER
+Representative name for the entity: transaction
+Entity type: OTHER
+Representative name for the entity: item
+Entity type: OTHER
+Representative name for the entity: item
+Entity type: OTHER
+Representative name for the entity: compensation
+Entity type: OTHER
+Representative name for the entity: timing
+Entity type: OTHER
+Representative name for the entity: transaction
+Entity type: OTHER
+Representative name for the entity: orsupporting material
+Entity type: OTHER
+Representative name for the entity: variations
+Entity type: OTHER
+Representative name for the entity: respects
+Entity type: OTHER
+Representative name for the entity: liabilities
+Entity type: OTHER
+Representative name for the entity: Considerations
+Entity type: OTHER
+Representative name for the entity: asconsideration
+Entity type: OTHER
+Representative name for the entity: amounts
+Entity type: OTHER
+Representative name for the entity: conditions
+Entity type: OTHER
+Representative name for the entity: place
+Entity type: OTHER
+Representative name for the entity: timing
+Entity type: OTHER
+Representative name for the entity: Purchase
+Entity type: EVENT
+Representative name for the entity: indication
+Entity type: OTHER
+Representative name for the entity: Agreement
+Entity type: OTHER
+Representative name for the entity: Name
+Entity type: OTHER
+Representative name for the entity: letters
+Entity type: WORK_OF_ART
+Representative name for the entity: sample letters
+Entity type: WORK_OF_ART
+Representative name for the entity: letter
+Entity type: WORK_OF_ART
+Representative name for the entity: fax
+Entity type: OTHER
+Representative name for the entity: mail
+Entity type: OTHER
+Representative name for the entity: tips
+Entity type: OTHER
+Representative name for the entity: offer
+Entity type: OTHER
+Representative name for the entity: conditions
+Entity type: OTHER
+Representative name for the entity: parties
+Entity type: OTHER
+Representative name for the entity: Vertex42.com
+Entity type: OTHER
+mid: /g/1232kkb7b
+Representative name for the entity: limitations
+Entity type: OTHER
+Representative name for the entity: due diligence
+Entity type: OTHER
+Representative name for the entity: confidentiality
+Entity type: OTHER
+Representative name for the entity: details
+Entity type: OTHER
+Representative name for the entity: Street Address
+Entity type: OTHER
+wikipedia_url: https://en.wikipedia.org/wiki/Address
+mid: /m/03w6kx
+Representative name for the entity: intent
+Entity type: OTHER
+Representative name for the entity: Email Address
+Entity type: OTHER
+Representative name for the entity: Recipient
+Entity type: PERSON
+Representative name for the entity: City
+Entity type: LOCATION
+wikipedia_url: https://en.wikipedia.org/wiki/City
+mid: /m/01n32
+Representative name for the entity: St Zip
+Entity type: ORGANIZATION
+Representative name for the entity: specifics
+Entity type: OTHER
+Representative name for the entity: Name
+Entity type: OTHER
+Representative name for the entity: letter
+Entity type: WORK_OF_ART
+Representative name for the entity: Company
+Entity type: ORGANIZATION
+Representative name for the entity: Recipient
+Entity type: PERSON
+Representative name for the entity: action
+Entity type: OTHER
+Representative name for the entity: purchase
+Entity type: OTHER
+Representative name for the entity: partner
+Entity type: PERSON
+Representative name for the entity: license
+Entity type: OTHER
+Representative name for the entity: St Zip)Dear
+Entity type: LOCATION
+Representative name for the entity: intent
+Entity type: OTHER
+Representative name for the entity: conditions
+Entity type: OTHER
+Representative name for the entity: transaction
+Entity type: OTHER
+Representative name for the entity: item
+Entity type: OTHER
+Representative name for the entity: item
+Entity type: OTHER
+Representative name for the entity: compensation
+Entity type: OTHER
+Representative name for the entity: timing
+Entity type: OTHER
+Representative name for the entity: transaction
+Entity type: OTHER
+Representative name for the entity: orsupporting material
+Entity type: OTHER
+Representative name for the entity: variations
+Entity type: OTHER
+Representative name for the entity: respects
+Entity type: OTHER
+Representative name for the entity: liabilities
+Entity type: OTHER
+Representative name for the entity: Considerations
+Entity type: OTHER
+Representative name for the entity: asconsideration
+Entity type: OTHER
+Representative name for the entity: amounts
+Entity type: OTHER
+Representative name for the entity: conditions
+Entity type: OTHER
+Representative name for the entity: place
+Entity type: OTHER
+Representative name for the entity: timing
+Entity type: OTHER
+Representative name for the entity: Purchase
+Entity type: EVENT
+Representative name for the entity: indication
+Entity type: OTHER
+Representative name for the entity: Agreement
+Entity type: OTHER
+Representative name for the entity: Name
+Entity type: OTHER
+Representative name for the entity: letters
+Entity type: WORK_OF_ART
+Representative name for the entity: sample letters
+Entity type: WORK_OF_ART
+Representative name for the entity: letter
+Entity type: WORK_OF_ART
+Representative name for the entity: fax
+Entity type: OTHER
+Representative name for the entity: mail
+Entity type: OTHER
+Representative name for the entity: tips
+Entity type: OTHER
+Representative name for the entity: offer
+Entity type: OTHER
+Representative name for the entity: conditions
+Entity type: OTHER
+Representative name for the entity: parties
+Entity type: OTHER
+Representative name for the entity: Vertex42.com
+Entity type: OTHER
+mid: /g/1232kkb7b
+Representative name for the entity: limitations
+Entity type: OTHER
+Representative name for the entity: due diligence
+Entity type: OTHER
+Representative name for the entity: confidentiality
+Entity type: OTHER
+Representative name for the entity: details
+Entity type: OTHER
+Representative name for the entity: Street Address
+Entity type: OTHER
+wikipedia_url: https://en.wikipedia.org/wiki/Address
+mid: /m/03w6kx
+Representative name for the entity: intent
+Entity type: OTHER
+Representative name for the entity: Email Address
+Entity type: OTHER
+Representative name for the entity: Recipient
+Entity type: PERSON
+Representative name for the entity: City
+Entity type: LOCATION
+wikipedia_url: https://en.wikipedia.org/wiki/City
+mid: /m/01n32
+Representative name for the entity: St Zip
+Entity type: ORGANIZATION
+Representative name for the entity: specifics
+Entity type: OTHER
+Representative name for the entity: Name
+Entity type: OTHER
+Representative name for the entity: letter
+Entity type: WORK_OF_ART
+Representative name for the entity: Company
+Entity type: ORGANIZATION
+Representative name for the entity: Recipient
+Entity type: PERSON
+Representative name for the entity: action
+Entity type: OTHER
+Representative name for the entity: purchase
+Entity type: OTHER
+Representative name for the entity: partner
+Entity type: PERSON
+Representative name for the entity: license
+Entity type: OTHER
+Representative name for the entity: St Zip)Dear
+Entity type: LOCATION
+Representative name for the entity: intent
+Entity type: OTHER
+Representative name for the entity: conditions
+Entity type: OTHER
+Representative name for the entity: transaction
+Entity type: OTHER
+Representative name for the entity: item
+Entity type: OTHER
+Representative name for the entity: item
+Entity type: OTHER
+Representative name for the entity: compensation
+Entity type: OTHER
+Representative name for the entity: timing
+Entity type: OTHER
+Representative name for the entity: transaction
+Entity type: OTHER
+Representative name for the entity: orsupporting material
+Entity type: OTHER
+Representative name for the entity: variations
+Entity type: OTHER
+Representative name for the entity: respects
+Entity type: OTHER
+Representative name for the entity: liabilities
+Entity type: OTHER
+Representative name for the entity: Considerations
+Entity type: OTHER
+Representative name for the entity: asconsideration
+Entity type: OTHER
+Representative name for the entity: amounts
+Entity type: OTHER
+Representative name for the entity: conditions
+Entity type: OTHER
+Representative name for the entity: place
+Entity type: OTHER
+Representative name for the entity: timing
+Entity type: OTHER
+Representative name for the entity: Purchase
+Entity type: EVENT
+Representative name for the entity: indication
+Entity type: OTHER
+Representative name for the entity: Agreement
+Entity type: OTHER
+Representative name for the entity: Name
+Entity type: OTHER
+Representative name for the entity: letters
+Entity type: WORK_OF_ART
+Representative name for the entity: sample letters
+Entity type: WORK_OF_ART
+Representative name for the entity: letter
+Entity type: WORK_OF_ART
+Representative name for the entity: fax
+Entity type: OTHER
+Representative name for the entity: mail
+Entity type: OTHER
+Representative name for the entity: tips
+Entity type: OTHER
+Representative name for the entity: offer
+Entity type: OTHER
+Representative name for the entity: conditions
+Entity type: OTHER
+Representative name for the entity: parties
+Entity type: OTHER
+Representative name for the entity: Vertex42.com
+Entity type: OTHER
+mid: /g/1232kkb7b
+Representative name for the entity: limitations
+Entity type: OTHER
+Representative name for the entity: due diligence
+Entity type: OTHER
+Representative name for the entity: confidentiality
+Entity type: OTHER
+Representative name for the entity: details
+Entity type: OTHER

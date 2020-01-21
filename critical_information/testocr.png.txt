@@ -1,0 +1,103 @@
+Representative name for the entity: Dell Village
+Entity type: LOCATION
+mid: /g/1tgpmp31
+Representative name for the entity: Wisconsin
+Entity type: LOCATION
+wikipedia_url: https://en.wikipedia.org/wiki/Wisconsin
+mid: /m/0824r
+Representative name for the entity: Chestnut Street
+Entity type: LOCATION
+Representative name for the entity: customer service role
+Entity type: OTHER
+Representative name for the entity: position
+Entity type: OTHER
+Representative name for the entity: nicole@thomas.comAugust 1
+Entity type: ORGANIZATION
+Representative name for the entity: customer service representative
+Entity type: PERSON
+Representative name for the entity: 2018Jason AndrewsManagerLMK Company53 Oak Avenue
+Entity type: LOCATION
+Representative name for the entity: program
+Entity type: OTHER
+Representative name for the entity: team
+Entity type: ORGANIZATION
+Representative name for the entity: resignation
+Entity type: OTHER
+Representative name for the entity: thetransition.
+Entity type: EVENT
+Representative name for the entity: school
+Entity type: LOCATION
+Representative name for the entity: Ste 5Dell Village
+Entity type: LOCATION
+Representative name for the entity: everyone
+Entity type: PERSON
+Representative name for the entity: Wisconsin 54101Dear Jason
+Entity type: PERSON
+Representative name for the entity: guidance
+Entity type: OTHER
+Representative name for the entity: education.
+Entity type: OTHER
+Representative name for the entity: support
+Entity type: OTHER
+Representative name for the entity: anything
+Entity type: OTHER
+Representative name for the entity: LMK
+Entity type: ORGANIZATION
+Representative name for the entity: wishes
+Entity type: OTHER
+Representative name for the entity: team
+Entity type: ORGANIZATION
+Representative name for the entity: with.
+Entity type: OTHER
+Representative name for the entity: people
+Entity type: PERSON
+Representative name for the entity: opportunity
+Entity type: OTHER
+Representative name for the entity: Nicole Thomas
+Entity type: PERSON
+Representative name for the entity: apositive
+Entity type: OTHER
+Representative name for the entity: August 15, 2018
+Entity type: DATE
+year: 2018
+day: 15
+month: 8
+Representative name for the entity: Wisconsin 54101
+Entity type: ADDRESS
+country: US
+postal_code: 54101
+locality: Abrams
+broad_region: Wisconsin
+Representative name for the entity: 5
+Entity type: NUMBER
+value: 5
+Representative name for the entity: 54101
+Entity type: NUMBER
+value: 54101
+Representative name for the entity: 35
+Entity type: NUMBER
+value: 35
+Representative name for the entity: 2018
+Entity type: NUMBER
+value: 2018
+Representative name for the entity: 54101
+Entity type: NUMBER
+value: 54101
+Representative name for the entity: 1
+Entity type: NUMBER
+value: 1
+Representative name for the entity: 5555
+Entity type: NUMBER
+value: 5555
+Representative name for the entity: 555
+Entity type: NUMBER
+value: 555
+Representative name for the entity: 2018
+Entity type: NUMBER
+value: 2018
+Representative name for the entity: 15
+Entity type: NUMBER
+value: 15
+Representative name for the entity: 555
+Entity type: NUMBER
+value: 555

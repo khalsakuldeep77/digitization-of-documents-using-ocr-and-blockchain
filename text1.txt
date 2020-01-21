@@ -1,0 +1,14 @@
+statement='SELECT fname FROM users WHERE email = "{}"'.format(username)
+            #print(statement)
+            c.execute(statement)
+            data=c.fetchall()
+            statement1='SELECT lname FROM users WHERE email = "{}"'.format(username)
+            #print(statement)
+            c.execute(statement1)
+            data1=c.fetchall()
+
+            name_list=[]
+            fname=data[0]
+            lname=data1[0]
+            name=fname+' '+lname
+            name_list.append(name)
